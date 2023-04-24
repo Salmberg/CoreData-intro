@@ -16,6 +16,7 @@
 		CB88DB5D29F66BF50047E3EC /* CoreData_introTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB88DB5C29F66BF50047E3EC /* CoreData_introTests.swift */; };
 		CB88DB6729F66BF50047E3EC /* CoreData_introUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB88DB6629F66BF50047E3EC /* CoreData_introUITests.swift */; };
 		CB88DB6929F66BF50047E3EC /* CoreData_introUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB88DB6829F66BF50047E3EC /* CoreData_introUITestsLaunchTests.swift */; };
+		CB88DB7629F671A30047E3EC /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB88DB7529F671A30047E3EC /* ShoppingListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		CB88DB6229F66BF50047E3EC /* CoreData-introUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CoreData-introUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB88DB6629F66BF50047E3EC /* CoreData_introUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData_introUITests.swift; sourceTree = "<group>"; };
 		CB88DB6829F66BF50047E3EC /* CoreData_introUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData_introUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CB88DB7529F671A30047E3EC /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				CB88DB4F29F66BF50047E3EC /* Persistence.swift */,
 				CB88DB5129F66BF50047E3EC /* CoreData_intro.xcdatamodeld */,
 				CB88DB4C29F66BF50047E3EC /* Preview Content */,
+				CB88DB7529F671A30047E3EC /* ShoppingListView.swift */,
 			);
 			path = "CoreData-intro";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				CB88DB5329F66BF50047E3EC /* CoreData_intro.xcdatamodeld in Sources */,
 				CB88DB4929F66BF40047E3EC /* ContentView.swift in Sources */,
 				CB88DB4729F66BF40047E3EC /* CoreData_introApp.swift in Sources */,
+				CB88DB7629F671A30047E3EC /* ShoppingListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
